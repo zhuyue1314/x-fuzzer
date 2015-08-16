@@ -1,0 +1,1 @@
+X-Fuzzer is a small and dynamic fuzzer developed by Mr Vinay Katoch, Vulnerability Research Specialist at Secfence Technologies. It can be used to fuzz and test browsers. The fuzzer is still in beta state. Currently it doesn't go for infinite iterations and has many other limits. Code can be altered and changed to obtain desired results.
